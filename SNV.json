@@ -1,0 +1,20 @@
+{
+    "Heart_Rate": "60 - 100",
+    "PR_Interval": "120 - 200",
+    "QRS_Duration": "70 - 120",
+    "QT_Interval": "350 - 450",
+    "QTc_Interval": "360 - 460",
+    "P_Amplitude": "0.1 - 0.25",
+    "T_Amplitude": "0.2 - 0.6",
+    "R_Amplitude":"0.5 - 2",
+    "pp_Interval":"500 - 1200",
+    "RR_Interval":"600 - 1200",
+    "R_Duration":"70 - 100",
+    "ST_Interval":"120-200",
+    "P_Duration": "NA",
+    "Q_Amplitude":"NA",
+    "S_Amplitude":"NA",
+    "S_Duration":"NA",
+    "Q_Duration":"NA"
+    
+}

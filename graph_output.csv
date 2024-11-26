@@ -1,0 +1,2 @@
+,file_name,SNR,Status,pantompkin,HeartRate,window,image,signal status
+1,/home/datasets/test/ECG/2510394_31_08_2023_16_13_45.json,12.768971377214719,passed,Passed,79.0,signal passed,/home/datasets/test/image_report/2510394_31_08_2023_16_13_45.png,
